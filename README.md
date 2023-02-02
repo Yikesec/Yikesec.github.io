@@ -1,4 +1,5 @@
 
+
 # 🛡️ Yikesec.github.io
 
 The Sakrua 95 offficial website
@@ -38,4 +39,38 @@ What does it look like
 - Add more integrations
 
 - Clean up code
+
+
+## 🌐 Images 
+
+ - Sakura95.gif
+
+ -  Sakurapfp.gif
+ 
+## 🧰 FIles
+
+ - 🌴 ・ Yikesec.html
+
+ - /files/ all min.css
+
+ - style.css
+  
+
+ - Sakura95.gif
+
+ -  Sakurapfp.gif
+## 📜 License
+
+This is licensed under an 
+[MIT](https://choosealicense.com/licenses/mit/) license
+
+
+## 📎 Links
+none at the moment
+
+# ~ Internal files ~
+- main html files
+- soon more...
+
+#
 
