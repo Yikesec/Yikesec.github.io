@@ -7,19 +7,20 @@ The Sakrua 95 offficial website
 
 ## 📕 Pages
 
-Home
+Home  - the home page, a page navigating page used for the introduction
 
-Gallery
+Gallery  - does this need an explination?
 
-About me
+About me  -  as the name implies its an about me with contact info
 
-History
+History  - simmilar to origin but explains its history and backstory
 
-What is menhera
+What is menhera  - this will tell you the prominent things about menhera including common themes etc
 
-What did it originate from?
+What did it originate from?  - this tells what it came from and its origin
 
-What does it look like
+What does it look like  -  this ties the asthetic of menhera to it
+
 
 
 
